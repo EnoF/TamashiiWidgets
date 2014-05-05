@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>711e3732-b794-43e8-8789-88bbde43096d</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory).bowerrc" />
+    <Content Include="$(MSBuildThisFileDirectory).gitattributes" />
+    <Content Include="$(MSBuildThisFileDirectory).gitignore" />
+    <Content Include="$(MSBuildThisFileDirectory).jshintrc" />
+    <Content Include="$(MSBuildThisFileDirectory).tmp\main.css" />
+    <Content Include="$(MSBuildThisFileDirectory).tmp\templates.js" />
+    <Content Include="$(MSBuildThisFileDirectory)bower.json" />
+    <Content Include="$(MSBuildThisFileDirectory)css\main.less" />
+    <Content Include="$(MSBuildThisFileDirectory)Gruntfile.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\app.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\angular-winjs\.bower.json" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\angular-winjs\bower.json" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\angular-winjs\build-nuget.bat" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\angular-winjs\js\angular-winjs.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\angular-winjs\LICENSE" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\angular-winjs\nuget\NuGet.exe" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\angular-winjs\nuget\WinJS.Angular.nuspec" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\angular-winjs\README.md" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\angular-winjs\readme.txt" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\enofjs\.bower.json" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\enofjs\bower.json" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\enofjs\Gruntfile.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\enofjs\package.json" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\enofjs\README.md" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\enofjs\src\ClassFactory.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\enofjs\src\LinkedHashMap.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\bower_components\enofjs\src\whereIt.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\lib\angular.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\lib\jquery.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\models\Tamashii.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\viewModels\TamashiiOverviewVM.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\widgets\tamashiiOverview.js" />
+    <Content Include="$(MSBuildThisFileDirectory)package.json" />
+    <Content Include="$(MSBuildThisFileDirectory)README.md" />
+    <Content Include="$(MSBuildThisFileDirectory)test\karma.conf.js" />
+    <Content Include="$(MSBuildThisFileDirectory)test\unit\tamashiiOverviewVMSpec.js" />
+    <Content Include="$(MSBuildThisFileDirectory)views\tamashiiOverview\tamashiiOverview.html" />
+    <Content Include="$(MSBuildThisFileDirectory)views\tamashiiOverview\tamashiiOverview.less" />
+  </ItemGroup>
+</Project>
