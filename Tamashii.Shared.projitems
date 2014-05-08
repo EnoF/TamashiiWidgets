@@ -15,6 +15,7 @@
     <Content Include="$(MSBuildThisFileDirectory)bower.json" />
     <Content Include="$(MSBuildThisFileDirectory)css\main.less" />
     <Content Include="$(MSBuildThisFileDirectory)Gruntfile.js" />
+    <Content Include="$(MSBuildThisFileDirectory)images\logo.scale-240.png" />
     <Content Include="$(MSBuildThisFileDirectory)js\app.js" />
     <Content Include="$(MSBuildThisFileDirectory)js\bower_components\angular-winjs\.bower.json" />
     <Content Include="$(MSBuildThisFileDirectory)js\bower_components\angular-winjs\bower.json" />
